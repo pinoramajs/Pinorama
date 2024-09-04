@@ -1,5 +1,11 @@
 # pinorama-studio
 
+## 0.4.1
+
+### Patch Changes
+
+- 35e9638: perf(studio): optimize table scrolling
+
 ## 0.4.0
 
 ### Minor Changes
