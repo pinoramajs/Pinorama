@@ -78,7 +78,7 @@
     "rimraf": "^6.1.2",
     "tailwindcss": "^4.1.18",
     "typescript": "^5.9.3",
-    "vite": "^7.3.2",
+    "vite": "^7.3.3",
     "vite-plugin-package-version": "^1.1.0"
   },
   "publishConfig": {
